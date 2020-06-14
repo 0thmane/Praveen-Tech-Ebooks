@@ -1,4 +1,4 @@
-Praveen Tech Ebooks
+All my Tech Ebooks
 
 If you are preparing for system designing interview and coding interviews then please go through the below references.
 
@@ -81,4 +81,4 @@ Computer Networks by Tanenbaum: https://amzn.to/33CDr9T
 
 Artificial Intelligence by Peter Norvig: https://amzn.to/31gzyWE
 
-For all Praveen Tech Ebooks, you can check in https://github.com/praveennaga/Praveen-Tech-Ebooks
+For all my Tech Ebooks, you can check in https://github.com/praveennaga/Praveen-Tech-Ebooks
