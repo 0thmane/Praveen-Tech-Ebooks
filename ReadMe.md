@@ -8,15 +8,11 @@ http://www.algoexpert.io/
 
 Graph theory Algorithms:
 
-https://www.freecodecamp.org/…/learn-graph-theory-algorith…/
+https://www.freecodecamp.org/news/learn-graph-theory-algorithms-from-a-google-engineer/
 
 System Design series:
 
-1.https://m.youtube.com/playlist…
-
-2.https://www.youtube.com/playlist…
-
-3.https://www.youtube.com/playlist…
+https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
 Highscalability:
 
@@ -30,7 +26,7 @@ Youtube Channels:
 
 Arden Dertat:
 
-http://www.ardendertat.com/…/programming-interview-questio…/
+http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 
 Coding Practice:
 
