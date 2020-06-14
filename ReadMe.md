@@ -81,4 +81,12 @@ Computer Networks by Tanenbaum: https://amzn.to/33CDr9T
 
 Artificial Intelligence by Peter Norvig: https://amzn.to/31gzyWE
 
-For all my Tech Ebooks, you can check in https://github.com/praveennaga/Praveen-Tech-Ebooks
+For all my Tech Ebooks, you can check in https://github.com/praveennaga/Praveen-Tech-Ebooks or my facebook group https://www.facebook.com/groups/268426377837151/files
+
+You can refer articles in my blog https://praveennagatech.blogspot.com/
+
+You can mail me opraveennaga@gmail.com for any technical queries.
+
+Show me that you like my work by contributing
+PayPal : https://www.paypal.me/opraveen 
+UPI Id: praveennaga@hdfcbank
